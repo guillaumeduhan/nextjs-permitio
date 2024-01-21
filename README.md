@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nextjs, Permit.io & Supabase
+
+This is the README.md file for the [Nextjs, Permit.io & Supabase]() project, created as part of the [CodeWithGuillaume](https://www.youtube.com/codewithGuillaume) YouTube channel.
+
+## Overview
+
+This is the main project of the Permit.io serie of videos on my Youtube channel.
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/guillaumeduhan/nextjs-permitio.git
+cd your-project
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Using npm or Yarn
+npm install or yarn
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Start the development server:
 
-## Learn More
+```bash
+npm run dev or yarn dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+The application will be available at `http://localhost:3000`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Next.js](https://vercel.com/): For building modern React applications.
+- [Tailwind CSS](https://tailwindcss.com/): For styling.
+- [NovelSH](https://novelsh.io/): For editing.
+- [Supabase](https://supabase.com/): For database.
 
-## Deploy on Vercel
+## Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Provide usage examples, code snippets, or API endpoints.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Permissions Management
+
+[Permit.io](https://permit.io) is used for managing permissions and access control.
+
+### Getting Started with Permit.io
+
+1. Create an account on [Permit.io](https://permit.io).
+
+2. Follow the documentation on [Permit.io Docs](https://docs.permit.io) to set up and configure permissions.
+
+3. Integrate Permit.io into your project using the provided documentation.
+
+## Contributing
+
+We welcome contributions! Fork the repo, create a new branch, make changes, and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
