@@ -11,6 +11,12 @@
   "dependencies": {
     "@supabase/ssr": "^0.0.10",
     "@supabase/supabase-js": "^2.39.3",
+    "@tiptap/extension-bold": "^2.1.16",
+    "@tiptap/extension-document": "^2.1.16",
+    "@tiptap/extension-heading": "^2.1.16",
+    "@tiptap/extension-paragraph": "^2.1.16",
+    "@tiptap/extension-text": "^2.1.16",
+    "@tiptap/html": "^2.1.16",
     "next": "14.1.0",
     "novel": "^0.1.22",
     "react": "^18",

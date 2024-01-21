@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-[18px];
+  }
+
+  h1 {
+    @apply text-[56px] font-bold mb-6;
+  }
+
+  p {
+    @apply mb-4;
+  }
+
+  button {
+    &.primary {
+      @apply bg-white border rounded shadow font-semibold px-6 py-2;
+    }
+  }
+}

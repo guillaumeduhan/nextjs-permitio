@@ -35,7 +35,7 @@ The application will be available at `http://localhost:3000`.
 - [Next.js](https://vercel.com/): For building modern React applications.
 - [Tailwind CSS](https://tailwindcss.com/): For styling.
 - [NovelSH](https://novelsh.io/): For editing.
-- [Supabase](https://supabase.com/): For database.
+- [Supabase](https://supabase.com/): For database.``
 
 ## Usage
 
